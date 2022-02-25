@@ -1,0 +1,90 @@
+/* BACKGROUND */
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+
+.container {
+    width: 850px;
+    margin-top: 0px;
+    margin-left: 350px;
+    padding-top: 100px;
+    padding-bottom: 75px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.397);
+    ;
+  }
+  /* LOGO E INPUT*/
+  header{ text-align: center;
+
+  }
+  
+  .logo {
+    width: 175px;
+    height: 80px;
+  }
+  .logo-text {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: limegreen;
+    font-weight:500 ;
+  }
+  
+  nav {
+    background-color: limegreen;
+    text-align: center;
+    padding: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+/* OFFERTE */
+  main{ margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;}
+
+
+    .mono{ font-size: 20px;
+
+    }
+
+    .via{
+        font-size: 13px;
+        margin-top: 5px;
+        margin-right: 520px;
+        
+    }
+
+/* BARRE CARICA */
+ hr.new3{
+     background-color: crimson;
+     height: 20px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 0px;
+    
+ }
+
+ hr.new2{
+    height: 20px;
+    width: 400px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+hr.new1{
+    background-color: orange;
+    height: 20px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 0px;
+    
+}
